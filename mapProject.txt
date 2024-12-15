@@ -1,0 +1,7 @@
+passwordGenerator/
+├── img/
+│   └── logo.png
+├── src/
+│   ├── script.js
+│   └── style.css
+└── index.html
